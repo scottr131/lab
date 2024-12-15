@@ -1,1 +1,2 @@
-These are files related to my home lab.
+# lab
+Various files related to my home IT lab.
